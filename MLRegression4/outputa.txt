@@ -1,0 +1,35 @@
+Testing begin...
+-5.6554166816e+13
+-5.6554166816e+13
+The magnitues above should be the same
+-22446749330.0
+-22446749330.0
+The magnitues above should be the same
+Testing end...
+
+
+Using training data for model 1...
+simple_weights 0 penalty:  263.024368965
+simple_weights high penalty:  124.572175674
+
+
+Using test data for model 1...
+Rss using initial weights:  1.78427328614e+15
+Rss using simple_weights_0_penalty:  2.75723632154e+14
+Rss using simple_weights high penalty:  6.9464210149e+14
+
+
+Using training data for model 2...
+multiple_weights 0 penalty:  243.054169821
+multiple_weights high penalty:  91.4892736471
+
+
+Using test data for model 2...
+Rss using initial weights:  1.78427328614e+15
+Rss using simple_weights_0_penalty:  2.74067615919e+14
+First house prediction using model 2 with no regularization:  387465.476058
+First house prediction error using model 2 with no regularization:  77465.4760582
+Rss using simple_weights high penalty:  5.00404800501e+14
+First house prediction using model 2 with high regularization:  270453.530322
+First house prediction error using model 2 with high regularization:  -39546.4696781
+Actual price of house in test set:  310000.0

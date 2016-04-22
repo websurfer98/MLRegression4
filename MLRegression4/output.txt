@@ -1,0 +1,373 @@
+
+Loading file: kc_house_data.csv with maxPol: 15
+Using an l2 penalty value of:  1.5e-05
+Intercept:  220664.375054
+    features  estimatedCoefficients
+0    power_1           1.248733e+02
+1    power_2          -4.773760e-02
+2    power_3           3.014462e-05
+3    power_4          -2.444199e-09
+4    power_5          -1.941537e-13
+5    power_6           8.540857e-18
+6    power_7           1.511421e-21
+7    power_8           8.279791e-26
+8    power_9           6.526031e-31
+9   power_10          -3.278950e-34
+10  power_11          -3.879623e-38
+11  power_12          -2.724376e-42
+12  power_13          -1.077908e-46
+13  power_14           3.782427e-51
+14  power_15           1.397903e-54
+
+
+Using a small penalty = 1e-09
+
+Loading file: wk3_kc_house_set_1_data.csv with maxPol: 15
+Using an l2 penalty value of:  1e-09
+Intercept:  23888.8141307
+    features  estimatedCoefficients
+0    power_1           5.446694e+02
+1    power_2          -3.554476e-01
+2    power_3           1.224464e-04
+3    power_4          -1.171754e-08
+4    power_5          -3.905117e-13
+5    power_6          -1.390766e-17
+6    power_7           1.478603e-20
+7    power_8           6.874921e-25
+8    power_9          -7.572040e-29
+9   power_10          -1.040973e-32
+10  power_11          -3.718441e-37
+11  power_12           3.399894e-41
+12  power_13           5.565919e-45
+13  power_14           2.537613e-49
+14  power_15          -3.351529e-53
+
+Loading file: wk3_kc_house_set_2_data.csv with maxPol: 15
+Using an l2 penalty value of:  1e-09
+Intercept:  -55614.6386157
+    features  estimatedCoefficients
+0    power_1           8.593626e+02
+1    power_2          -8.181182e-01
+2    power_3           4.288800e-04
+3    power_4          -9.127705e-08
+4    power_5          -2.696049e-12
+5    power_6           3.739803e-15
+6    power_7          -1.427118e-19
+7    power_8          -6.307948e-23
+8    power_9          -1.445597e-27
+9   power_10           7.443216e-31
+10  power_11           9.258659e-35
+11  power_12           3.279910e-41
+12  power_13          -1.295435e-42
+13  power_14          -1.387813e-46
+14  power_15           1.665464e-50
+
+Loading file: wk3_kc_house_set_3_data.csv with maxPol: 15
+Using an l2 penalty value of:  1e-09
+Intercept:  470987.860309
+    features  estimatedCoefficients
+0    power_1          -7.553959e+02
+1    power_2           9.755795e-01
+2    power_3          -4.589460e-04
+3    power_4           7.779582e-08
+4    power_5           7.150131e-12
+5    power_6          -2.886019e-15
+6    power_7          -2.136780e-20
+7    power_8           3.380851e-23
+8    power_9           2.191782e-27
+9   power_10          -1.970677e-31
+10  power_11          -4.159932e-35
+11  power_12          -1.801963e-39
+12  power_13           3.190712e-43
+13  power_14           5.084570e-47
+14  power_15          -3.933043e-51
+
+Loading file: wk3_kc_house_set_4_data.csv with maxPol: 15
+Using an l2 penalty value of:  1e-09
+Intercept:  -145655.621894
+    features  estimatedCoefficients
+0    power_1           1.119446e+03
+1    power_2          -9.837602e-01
+2    power_3           3.387709e-04
+3    power_4           3.603771e-08
+4    power_5          -4.378140e-11
+5    power_6           5.771917e-15
+6    power_7           7.667951e-19
+7    power_8          -9.492975e-23
+8    power_9          -1.960308e-26
+9   power_10          -2.108792e-32
+10  power_11           3.310049e-34
+11  power_12           3.477340e-38
+12  power_13          -2.430392e-42
+13  power_14          -8.795534e-46
+14  power_15           6.445697e-50
+
+
+Using a large penalty = 123.0
+
+Loading file: wk3_kc_house_set_1_data.csv with maxPol: 15
+Using an l2 penalty value of:  123.0
+Intercept:  539103.031058
+    features  estimatedCoefficients
+0    power_1           2.328068e+00
+1    power_2           3.536216e-04
+2    power_3           3.319697e-08
+3    power_4           2.000825e-12
+4    power_5           1.114926e-16
+5    power_6           6.577861e-21
+6    power_7           4.129395e-25
+7    power_8           2.703938e-29
+8    power_9           1.816148e-33
+9   power_10           1.238243e-37
+10  power_11           8.518725e-42
+11  power_12           5.894556e-46
+12  power_13           4.095426e-50
+13  power_14           2.854649e-54
+14  power_15           1.995475e-58
+
+Loading file: wk3_kc_house_set_2_data.csv with maxPol: 15
+Using an l2 penalty value of:  123.0
+Intercept:  529853.025358
+    features  estimatedCoefficients
+0    power_1           2.097569e+00
+1    power_2           3.908175e-04
+2    power_3           6.671899e-08
+3    power_4           8.900030e-12
+4    power_5           9.726399e-16
+5    power_6           9.697337e-20
+6    power_7           9.505645e-24
+7    power_8           9.444910e-28
+8    power_9           9.571913e-32
+9   power_10           9.869452e-36
+10  power_11           1.031011e-39
+11  power_12           1.087298e-43
+12  power_13           1.154537e-47
+13  power_14           1.232113e-51
+14  power_15           1.319867e-55
+
+Loading file: wk3_kc_house_set_3_data.csv with maxPol: 15
+Using an l2 penalty value of:  123.0
+Intercept:  533640.114097
+    features  estimatedCoefficients
+0    power_1           2.289063e+00
+1    power_2           4.124722e-04
+2    power_3           6.088353e-08
+3    power_4           6.585722e-12
+4    power_5           6.152782e-16
+5    power_6           5.644466e-20
+6    power_7           5.288344e-24
+7    power_8           5.070914e-28
+8    power_9           4.946573e-32
+9   power_10           4.880438e-36
+10  power_11           4.850091e-40
+11  power_12           4.841615e-44
+12  power_13           4.846350e-48
+13  power_14           4.858836e-52
+14  power_15           4.875585e-56
+
+Loading file: wk3_kc_house_set_4_data.csv with maxPol: 15
+Using an l2 penalty value of:  123.0
+Intercept:  524562.969047
+    features  estimatedCoefficients
+0    power_1           2.085962e+00
+1    power_2           4.050358e-04
+2    power_3           7.468646e-08
+3    power_4           1.130966e-11
+4    power_5           1.458644e-15
+5    power_6           1.735613e-19
+6    power_7           2.016096e-23
+7    power_8           2.346053e-27
+8    power_9           2.756361e-31
+9   power_10           3.270431e-35
+10  power_11           3.910469e-39
+11  power_12           4.701180e-43
+12  power_13           5.672123e-47
+13  power_14           6.859581e-51
+14  power_15           8.308436e-55
+
+Loading file: wk3_kc_house_train_valid_shuffled.csv with maxPol: 15
+L2 penalty list [  1.00000000e+03   3.16227766e+03   1.00000000e+04   3.16227766e+04
+   1.00000000e+05   3.16227766e+05   1.00000000e+06   3.16227766e+06
+   1.00000000e+07   3.16227766e+07   1.00000000e+08   3.16227766e+08
+   1.00000000e+09]
+Using an l2 penalty value of:  1000.0
+Rss:  1.58242129715e+14
+Rss:  1.1828278629e+14
+Rss:  9.80445156227e+13
+Rss:  8.37960303674e+13
+Rss:  7.73603901543e+13
+Rss:  7.51671214122e+13
+Rss:  8.03222161421e+13
+Rss:  1.20953467893e+14
+Rss:  2.62454860424e+14
+Rss:  2.63039662934e+24
+Avg. validation Rss:  2.63039663041e+23
+Using an l2 penalty value of:  3162.27766017
+Rss:  1.58768814603e+14
+Rss:  1.186169675e+14
+Rss:  9.82779021612e+13
+Rss:  8.39388571654e+13
+Rss:  7.74488020818e+13
+Rss:  7.51960604268e+13
+Rss:  8.03234964575e+13
+Rss:  1.20997996015e+14
+Rss:  2.62782601487e+14
+Rss:  2.69013527922e+23
+Avg. validation Rss:  2.69013528998e+22
+Using an l2 penalty value of:  10000.0
+Rss:  1.58936185467e+14
+Rss:  1.18723173756e+14
+Rss:  9.83520785486e+13
+Rss:  8.39842593311e+13
+Rss:  7.74769075357e+13
+Rss:  7.52052651067e+13
+Rss:  8.03239044438e+13
+Rss:  1.21012131939e+14
+Rss:  2.62886703759e+14
+Rss:  2.70933756588e+22
+Avg. validation Rss:  2.70933767357e+21
+Using an l2 penalty value of:  31622.7766017
+Rss:  1.58989195215e+14
+Rss:  1.18756812399e+14
+Rss:  9.837557277e+13
+Rss:  8.3998640576e+13
+Rss:  7.74858100944e+13
+Rss:  7.52081812658e+13
+Rss:  8.03240337746e+13
+Rss:  1.21016607625e+14
+Rss:  2.62919670228e+14
+Rss:  2.71523952486e+21
+Avg. validation Rss:  2.71524060193e+20
+Using an l2 penalty value of:  100000.0
+Rss:  1.59005966631e+14
+Rss:  1.18767455212e+14
+Rss:  9.83830060629e+13
+Rss:  8.40031907128e+13
+Rss:  7.74886268179e+13
+Rss:  7.52091039762e+13
+Rss:  8.03240747042e+13
+Rss:  1.21018023514e+14
+Rss:  2.62930099795e+14
+Rss:  2.71646044382e+20
+Avg. validation Rss:  2.71647121511e+19
+Using an l2 penalty value of:  316227.766017
+Rss:  1.59011271045e+14
+Rss:  1.18770821299e+14
+Rss:  9.83853570536e+13
+Rss:  8.40046298314e+13
+Rss:  7.74895176929e+13
+Rss:  7.52093958169e+13
+Rss:  8.03240876504e+13
+Rss:  1.21018471312e+14
+Rss:  2.62933398379e+14
+Rss:  2.71490315587e+19
+Avg. validation Rss:  2.71501087057e+18
+Using an l2 penalty value of:  1000000.0
+Rss:  1.59012948531e+14
+Rss:  1.18771885803e+14
+Rss:  9.83861005398e+13
+Rss:  8.40050849445e+13
+Rss:  7.74897994272e+13
+Rss:  7.52094881105e+13
+Rss:  8.03240917446e+13
+Rss:  1.21018612924e+14
+Rss:  2.62934441529e+14
+Rss:  2.70935943703e+18
+Avg. validation Rss:  2.71043658949e+17
+Using an l2 penalty value of:  3162277.66017
+Rss:  1.59013479007e+14
+Rss:  1.18772222433e+14
+Rss:  9.83863356546e+13
+Rss:  8.40052288663e+13
+Rss:  7.74898885209e+13
+Rss:  7.52095172968e+13
+Rss:  8.03240930394e+13
+Rss:  1.21018657706e+14
+Rss:  2.62934771407e+14
+Rss:  2.70258696359e+17
+Avg. validation Rss:  2.71335850553e+16
+Using an l2 penalty value of:  10000000.0
+Rss:  1.59013646759e+14
+Rss:  1.18772328886e+14
+Rss:  9.83864100048e+13
+Rss:  8.40052743786e+13
+Rss:  7.74899166949e+13
+Rss:  7.52095265264e+13
+Rss:  8.03240934488e+13
+Rss:  1.21018671868e+14
+Rss:  2.62934875724e+14
+Rss:  2.79411471903e+16
+Avg. validation Rss:  2.90183019346e+15
+Using an l2 penalty value of:  31622776.6017
+Rss:  1.59013699807e+14
+Rss:  1.18772362549e+14
+Rss:  9.83864335164e+13
+Rss:  8.40052887709e+13
+Rss:  7.74899256044e+13
+Rss:  7.5209529445e+13
+Rss:  8.03240935783e+13
+Rss:  1.21018676346e+14
+Rss:  2.62934908712e+14
+Rss:  4.21468832602e+15
+Avg. validation Rss:  5.29184324435e+14
+Using an l2 penalty value of:  100000000.0
+Rss:  1.59013716582e+14
+Rss:  1.18772373195e+14
+Rss:  9.83864409514e+13
+Rss:  8.40052933221e+13
+Rss:  7.74899284218e+13
+Rss:  7.5209530368e+13
+Rss:  8.03240936193e+13
+Rss:  1.21018677762e+14
+Rss:  2.62934919144e+14
+Rss:  2.00188469789e+15
+Avg. validation Rss:  3.07903967125e+14
+Using an l2 penalty value of:  316227766.017
+Rss:  1.59013721887e+14
+Rss:  1.18772376561e+14
+Rss:  9.83864433026e+13
+Rss:  8.40052947614e+13
+Rss:  7.74899293127e+13
+Rss:  7.52095306598e+13
+Rss:  8.03240936322e+13
+Rss:  1.2101867821e+14
+Rss:  2.62934922442e+14
+Rss:  1.83115259084e+15
+Avg. validation Rss:  2.90830758161e+14
+Using an l2 penalty value of:  1000000000.0
+Rss:  1.59013723564e+14
+Rss:  1.18772377626e+14
+Rss:  9.83864440461e+13
+Rss:  8.40052952165e+13
+Rss:  7.74899295944e+13
+Rss:  7.52095307521e+13
+Rss:  8.03240936363e+13
+Rss:  1.21018678351e+14
+Rss:  2.62934923486e+14
+Rss:  1.83006419575e+15
+Avg. validation Rss:  2.90721919202e+14
+Best Rss =  2.90721919202e+14
+Best penalty =  1000000000.0
+
+Loading file: wk3_kc_house_train_valid_shuffled.csv with maxPol: 15
+Using an l2 penalty value of:  1000000000.0
+Intercept:  539128.733505
+    features  estimatedCoefficients
+0    power_1           2.828130e-07
+1    power_2           4.947033e-11
+2    power_3           6.164376e-15
+3    power_4           4.506146e-19
+4    power_5           2.583206e-23
+5    power_6           1.457870e-27
+6    power_7           8.602119e-32
+7    power_8           5.307457e-36
+8    power_9           3.388106e-40
+9   power_10           2.217114e-44
+10  power_11           1.477599e-48
+11  power_12           9.985408e-53
+12  power_13           6.822236e-57
+13  power_14           4.702627e-61
+14  power_15           3.265583e-65
+
+Loading file: wk3_kc_house_test_data.csv with maxPol: 15
+Test Rss:  5.75404243131e+14
